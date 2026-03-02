@@ -1,0 +1,4 @@
+2025/12/01 13:34:45 main.go:45: wr69/auto-delactionlog client.Do Get "https://api.github.com/repos/wr69/auto-delactionlog/actions/runs": dial tcp 140.82.113.5:443: connect: connection refused
+2025/12/01 13:34:48 main.go:45: 1 19812160423 9999 client.Do Delete "https://api.github.com/repos/wr69/auto-green/actions/runs/19812160423/logs": dial tcp 140.82.113.5:443: connect: connection refused
+2025/12/01 13:34:48 main.go:45: 1 19812160423 9999 client.Do Delete "https://api.github.com/repos/wr69/auto-green/actions/runs/19812160423": dial tcp 140.82.113.5:443: connect: connection refused
+2025/12/01 13:34:51 main.go:45: wr69/auto-jichangqiandao client.Do Get "https://api.github.com/repos/wr69/auto-jichangqiandao/actions/runs": dial tcp 140.82.113.5:443: connect: connection refused
