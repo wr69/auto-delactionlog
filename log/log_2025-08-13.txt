@@ -1,0 +1,2 @@
+2025/08/13 10:11:54 main.go:45: wr69/auto-green client.Do Get "https://api.github.com/repos/wr69/auto-green/actions/runs": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2025/08/13 10:12:26 main.go:45: wr69/xuding-555 client.Do Get "https://api.github.com/repos/wr69/xuding-555/actions/runs": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
