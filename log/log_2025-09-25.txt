@@ -1,0 +1,2 @@
+2025/09/25 22:27:05 main.go:45: 7 18009237038 9999 client.Do Delete "https://api.github.com/repos/wr69/auto-delactionlog/actions/runs/18009237038": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2025/09/25 22:27:27 main.go:45: wr69/auto-greenClone client.Do Get "https://api.github.com/repos/wr69/auto-greenClone/actions/runs": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
