@@ -1,0 +1,48 @@
+2026/02/10 03:35:21 main.go:45: wr69/auto-green {
+  "message": "This endpoint is temporarily being throttled. Please try again later. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)",
+  "documentation_url": "https://docs.github.com/rest/using-the-rest-api/rate-limits-for-the-rest-api",
+  "status": "429"
+}
+
+2026/02/10 03:35:27 main.go:45: 6 21835581736 429 {
+  "message": "This endpoint is temporarily being throttled. Please try again later. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)",
+  "documentation_url": "https://docs.github.com/rest/using-the-rest-api/rate-limits-for-the-rest-api",
+  "status": "429"
+}
+
+2026/02/10 03:35:34 main.go:45: wr69/auto-delactionlog {
+  "message": "This endpoint is temporarily being throttled. Please try again later. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)",
+  "documentation_url": "https://docs.github.com/rest/using-the-rest-api/rate-limits-for-the-rest-api",
+  "status": "429"
+}
+
+2026/02/10 03:35:36 main.go:45: 1 21834854378 429 {
+  "message": "This endpoint is temporarily being throttled. Please try again later. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)",
+  "documentation_url": "https://docs.github.com/rest/using-the-rest-api/rate-limits-for-the-rest-api",
+  "status": "429"
+}
+
+2026/02/10 03:35:38 main.go:45: wr69/auto-green {
+  "message": "This endpoint is temporarily being throttled. Please try again later. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)",
+  "documentation_url": "https://docs.github.com/rest/using-the-rest-api/rate-limits-for-the-rest-api",
+  "status": "429"
+}
+
+2026/02/10 03:35:49 main.go:45: wr69/xuding-555 {
+  "message": "This endpoint is temporarily being throttled. Please try again later. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)",
+  "documentation_url": "https://docs.github.com/rest/using-the-rest-api/rate-limits-for-the-rest-api",
+  "status": "429"
+}
+
+2026/02/10 03:35:50 main.go:45: wr69/auto-jichangbaohuo {
+  "message": "This endpoint is temporarily being throttled. Please try again later. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)",
+  "documentation_url": "https://docs.github.com/rest/using-the-rest-api/rate-limits-for-the-rest-api",
+  "status": "429"
+}
+
+2026/02/10 03:35:53 main.go:45: wr69/auto-greenClone {
+  "message": "This endpoint is temporarily being throttled. Please try again later. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)",
+  "documentation_url": "https://docs.github.com/rest/using-the-rest-api/rate-limits-for-the-rest-api",
+  "status": "429"
+}
+
