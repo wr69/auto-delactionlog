@@ -1,0 +1,20 @@
+2026/08/07 17:08:53 main.go:45: 6 31163342145 502 {
+  "message": "Server Error"
+}
+
+2026/08/07 17:09:04 main.go:45: 6 31159507707 502 {
+  "message": "Server Error"
+}
+
+2026/08/07 17:09:15 main.go:45: 7 31158250175 502 {
+  "message": "Server Error"
+}
+
+2026/08/07 17:09:25 main.go:45: 1 31160140070 502 {
+  "message": "Server Error"
+}
+
+2026/08/07 17:09:36 main.go:45: 2 31159984473 502 {
+  "message": "Server Error"
+}
+
