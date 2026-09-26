@@ -1,0 +1,9 @@
+2024/04/05 16:30:17 main.go:45: wr69/auto-green 
+2024/04/05 16:30:19 main.go:45: wr69/xuding-555 
+2024/04/05 16:30:21 main.go:45: wr69/auto-jichangqiandao 
+2024/04/05 16:30:23 main.go:45: wr69/auto-jichangbaohuo 
+2024/04/05 16:30:24 main.go:45: wr69/auto-tongbudaozhiding 
+2024/04/05 16:30:26 main.go:45: 2 8566836086 500 
+2024/04/05 16:30:28 main.go:45: 7 8566419168 500 
+2024/04/05 16:30:29 main.go:45: 7 8566419168 500 
+2024/04/05 16:30:31 main.go:45: wr69/auto-greenClone 
