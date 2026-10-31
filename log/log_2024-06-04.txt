@@ -1,0 +1,8 @@
+2024/06/04 07:20:34 main.go:45: 6 9358491899 502 {
+  "message": "Server Error"
+}
+
+2024/06/04 22:19:37 main.go:45: 2 9368483043 502 {
+  "message": "Server Error"
+}
+
