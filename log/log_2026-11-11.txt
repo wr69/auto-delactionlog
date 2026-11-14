@@ -1,0 +1,6 @@
+2026/11/11 13:54:04 main.go:45: 4 42930689868 500 {
+  "message": "Could not delete the logs from file storage",
+  "documentation_url": "https://docs.github.com/rest/actions/workflow-runs#delete-workflow-run-logs",
+  "status": "500"
+}
+
