@@ -1,0 +1,12 @@
+2026/11/26 06:21:44 main.go:45: 1 45640998099 404 {
+  "message": "Not Found",
+  "documentation_url": "https://docs.github.com/rest/actions/workflow-runs#delete-workflow-run-logs",
+  "status": "404"
+}
+
+2026/11/26 06:21:45 main.go:45: 1 45640998099 404 {
+  "message": "Not Found",
+  "documentation_url": "https://docs.github.com/rest/actions/workflow-runs#delete-a-workflow-run",
+  "status": "404"
+}
+

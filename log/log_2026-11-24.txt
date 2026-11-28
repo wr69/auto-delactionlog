@@ -1,0 +1,24 @@
+2026/11/24 05:10:09 main.go:45: 1 45187211508 404 {
+  "message": "Not Found",
+  "documentation_url": "https://docs.github.com/rest/actions/workflow-runs#delete-workflow-run-logs",
+  "status": "404"
+}
+
+2026/11/24 05:10:09 main.go:45: 1 45187211508 404 {
+  "message": "Not Found",
+  "documentation_url": "https://docs.github.com/rest/actions/workflow-runs#delete-a-workflow-run",
+  "status": "404"
+}
+
+2026/11/24 05:10:10 main.go:45: 1 45142555471 404 {
+  "message": "Not Found",
+  "documentation_url": "https://docs.github.com/rest/actions/workflow-runs#delete-workflow-run-logs",
+  "status": "404"
+}
+
+2026/11/24 05:10:10 main.go:45: 1 45142555471 404 {
+  "message": "Not Found",
+  "documentation_url": "https://docs.github.com/rest/actions/workflow-runs#delete-a-workflow-run",
+  "status": "404"
+}
+
